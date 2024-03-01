@@ -1,3 +1,4 @@
+[magisk_install_log_2024-02-24T07.19.10.log](https://github.com/topjohnwu/Magisk/files/14465374/magisk_install_log_2024-02-24T07.19.10.log)
 # Magisk Changelog
 
 ### v27.0
