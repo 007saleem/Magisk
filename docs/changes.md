@@ -1,3 +1,4 @@
+[changes.md](https://github.com/topjohnwu/Magisk/files/14466485/changes.md)
 # Magisk Changelog
 
 ### v27.0
